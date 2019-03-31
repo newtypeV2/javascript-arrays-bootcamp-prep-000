@@ -1,2 +1,3 @@
 var chocolateBars = ["snickers", "hundrad grand", "kitkat", "skittles"]
-console.log(chocolateBars[2])
+chocolateBars.push("hersheys")
+console.log(chocolateBars[4])
